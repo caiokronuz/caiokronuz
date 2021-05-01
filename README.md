@@ -8,7 +8,7 @@ Enthusiast of the best web & mobile development technologies.<br>
 **Skills:** HTML, CSS, JS, Python, ReactJS, Django Rest Framework, NodeJS, Docker, Git, etc...
 
 #### Contact me at:
-- [Linkedin](www.linkedin.com/in/caio-gabriel-5381651b5/)
+- [Linkedin](https://www.linkedin.com/in/caio-gabriel-5381651b5/)
 - [Email](mailto:caiogabriel135@gmail.com)
 
 
