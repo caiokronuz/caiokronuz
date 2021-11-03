@@ -1,6 +1,6 @@
 ## Hello World! :wave:
 
-My name is Caio, I'am 18 years old and I'am fullstack developer<br>
+My name is Caio, I'am 18 years old and I'am frontend developer<br>
 Enthusiast of the best web & mobile development technologies.<br>
 
 - [My Website](https://caio.vercel.app/)
